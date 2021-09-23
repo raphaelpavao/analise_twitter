@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "614c8569638c0f1bf6ee49d5"
+  },
+  "alegria": 232,
+  "desgosto": 50,
+  "medo": 36,
+  "raiva": 41,
+  "surpresa": 27,
+  "tristeza": 80,
+  "data": "2021-09-23",
+  "hora": "10:46"
+},{
+  "_id": {
+    "$oid": "614c85c3ccb867b3b7ef2495"
+  },
+  "alegria": 227,
+  "desgosto": 36,
+  "medo": 39,
+  "raiva": 40,
+  "surpresa": 33,
+  "tristeza": 69,
+  "data": "2021-09-23",
+  "hora": "10:48"
+},{
+  "_id": {
+    "$oid": "614c8d3ec3c01c15ead1687e"
+  },
+  "alegria": 240,
+  "desgosto": 46,
+  "medo": 26,
+  "raiva": 50,
+  "surpresa": 35,
+  "tristeza": 89,
+  "data": "2021-09-23",
+  "hora": "11:20"
+},{
+  "_id": {
+    "$oid": "614c94456799a55f997fdc6a"
+  },
+  "alegria": 231,
+  "desgosto": 42,
+  "medo": 33,
+  "raiva": 37,
+  "surpresa": 36,
+  "tristeza": 74,
+  "data": "2021-09-23",
+  "hora": "11:50"
+},{
+  "_id": {
+    "$oid": "614c9b4cb96ec3a0931a42d6"
+  },
+  "alegria": 182,
+  "desgosto": 43,
+  "medo": 33,
+  "raiva": 45,
+  "surpresa": 37,
+  "tristeza": 63,
+  "data": "2021-09-23",
+  "hora": "12:20"
+},{
+  "_id": {
+    "$oid": "614ca2566252ac401c4a7b1a"
+  },
+  "alegria": 177,
+  "desgosto": 44,
+  "medo": 17,
+  "raiva": 39,
+  "surpresa": 27,
+  "tristeza": 86,
+  "data": "2021-09-23",
+  "hora": "12:50"
+},{
+  "_id": {
+    "$oid": "614ca95e353379de224f2b08"
+  },
+  "alegria": 156,
+  "desgosto": 39,
+  "medo": 22,
+  "raiva": 59,
+  "surpresa": 20,
+  "tristeza": 68,
+  "data": "2021-09-23",
+  "hora": "13:20"
+},{
+  "_id": {
+    "$oid": "614cb06806baa19a07541859"
+  },
+  "alegria": 150,
+  "desgosto": 22,
+  "medo": 28,
+  "raiva": 56,
+  "surpresa": 33,
+  "tristeza": 88,
+  "data": "2021-09-23",
+  "hora": "13:50"
+},{
+  "_id": {
+    "$oid": "614cb775d7793de235f6a197"
+  },
+  "alegria": 142,
+  "desgosto": 40,
+  "medo": 34,
+  "raiva": 57,
+  "surpresa": 38,
+  "tristeza": 79,
+  "data": "2021-09-23",
+  "hora": "14:20"
+}]
