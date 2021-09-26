@@ -13,10 +13,10 @@ collection_tweets = db.trends_tweets
 collection_graph = db.data_graph
 
 #tokens do twitter
-consumer_key = 'pjNgrO3UcrqhbRVrRfl5m04NE' # api key
-consumer_secret = 'XOEPbCyBJaS1Ey88Ay1iTzkPTBpOVM6GK4oyh4AwJ0tgG6RXyM' #api key secret
-access_token = '1437561887953235969-P0PVeCHxNhhSHCldzG1VDMltLXvs0Z' #acess token
-access_token_secret = 'spGIchQsqdDCidLOPuz3n5xACCKEKvzN7ctGrZffmTt0H' 
+consumer_key = '' # api key
+consumer_secret = '' #api key secret
+access_token = '' #acess token
+access_token_secret = '' 
 
 #autenticação e execução das APIs
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
