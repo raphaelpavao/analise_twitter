@@ -2,7 +2,6 @@
 from tkinter import *
 import os
 from get_graph_feelings import get_graph_feelings
-os.chdir('/scripts')
 from get_graph_trends import get_graph_trends
 
 app = Tk()
